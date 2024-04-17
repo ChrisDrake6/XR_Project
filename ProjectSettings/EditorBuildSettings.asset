@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01-HelloWorldAR-Challenge/Scenes/HelloWorldAR-Challenge.unity
+    guid: 7adb2fad78b49044bb7c71ee618ce68b
   m_configObjects: {}
