@@ -5104,13 +5104,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Drone
+  mTrackableName: marker_pixelkatze
   mInitializedInEditor: 1
-  mDataSetPath: Vuforia/VuforiaMars_Images.xml
-  mAspectRatio: 1.7272727
+  mDataSetPath: Vuforia/XR-uebung.xml
+  mAspectRatio: 1.4187635
   mImageTargetType: 0
-  mWidth: 0.06985
-  mHeight: 0.12065
+  mWidth: 0.148
+  mHeight: 0.209977
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -5147,8 +5147,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1749856465}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Drone
-  mDatasetName: Vuforia/VuforiaMars_Images.xml
+  mTargetName: marker_pixelkatze
+  mDatasetName: Vuforia/XR-uebung.xml
   mCastedBehaviour: {fileID: 1749856465}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
